@@ -8,7 +8,6 @@
   },
   {
     browserName: "chrome",
-    version: "31",
     platform: "OS X 10.9"
   },
 
@@ -50,12 +49,10 @@
 
   {
     browserName: "chrome",
-    version: "31",
     platform: "Windows 8.1"
   },
   {
     browserName: "firefox",
-    version: "25",
     platform: "Windows 8.1"
   },
 
@@ -72,12 +69,10 @@
   # Linux (unofficial):
   {
     browserName: "chrome",
-    version: "30",
     platform: "Linux"
   },
   {
     browserName: "firefox",
-    version: "25",
     platform: "Linux"
   }
 
